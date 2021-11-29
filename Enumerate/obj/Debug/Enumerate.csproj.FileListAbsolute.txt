@@ -1,0 +1,6 @@
+/Users/jiwonkim/RiderProjects/Excercise/Enumerate/bin/Debug/Enumerate.exe
+/Users/jiwonkim/RiderProjects/Excercise/Enumerate/bin/Debug/Enumerate.pdb
+/Users/jiwonkim/RiderProjects/Excercise/Enumerate/obj/Debug/Enumerate.csprojAssemblyReference.cache
+/Users/jiwonkim/RiderProjects/Excercise/Enumerate/obj/Debug/Enumerate.csproj.CoreCompileInputs.cache
+/Users/jiwonkim/RiderProjects/Excercise/Enumerate/obj/Debug/Enumerate.exe
+/Users/jiwonkim/RiderProjects/Excercise/Enumerate/obj/Debug/Enumerate.pdb

@@ -1,0 +1,6 @@
+/Users/jiwonkim/RiderProjects/Excercise/DotNetAPI/bin/Debug/DotNetAPI.exe
+/Users/jiwonkim/RiderProjects/Excercise/DotNetAPI/bin/Debug/DotNetAPI.pdb
+/Users/jiwonkim/RiderProjects/Excercise/DotNetAPI/obj/Debug/DotNetAPI.csprojAssemblyReference.cache
+/Users/jiwonkim/RiderProjects/Excercise/DotNetAPI/obj/Debug/DotNetAPI.csproj.CoreCompileInputs.cache
+/Users/jiwonkim/RiderProjects/Excercise/DotNetAPI/obj/Debug/DotNetAPI.exe
+/Users/jiwonkim/RiderProjects/Excercise/DotNetAPI/obj/Debug/DotNetAPI.pdb

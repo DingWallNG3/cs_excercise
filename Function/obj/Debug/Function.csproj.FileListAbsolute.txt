@@ -1,0 +1,6 @@
+/Users/jiwonkim/RiderProjects/Excercise/Function/bin/Debug/Function.exe
+/Users/jiwonkim/RiderProjects/Excercise/Function/bin/Debug/Function.pdb
+/Users/jiwonkim/RiderProjects/Excercise/Function/obj/Debug/Function.csprojAssemblyReference.cache
+/Users/jiwonkim/RiderProjects/Excercise/Function/obj/Debug/Function.csproj.CoreCompileInputs.cache
+/Users/jiwonkim/RiderProjects/Excercise/Function/obj/Debug/Function.exe
+/Users/jiwonkim/RiderProjects/Excercise/Function/obj/Debug/Function.pdb

@@ -1,0 +1,6 @@
+/Users/jiwonkim/RiderProjects/Excercise/ArrayOne1/bin/Debug/ArrayOne1.exe
+/Users/jiwonkim/RiderProjects/Excercise/ArrayOne1/bin/Debug/ArrayOne1.pdb
+/Users/jiwonkim/RiderProjects/Excercise/ArrayOne1/obj/Debug/ArrayOne1.csprojAssemblyReference.cache
+/Users/jiwonkim/RiderProjects/Excercise/ArrayOne1/obj/Debug/ArrayOne1.csproj.CoreCompileInputs.cache
+/Users/jiwonkim/RiderProjects/Excercise/ArrayOne1/obj/Debug/ArrayOne1.exe
+/Users/jiwonkim/RiderProjects/Excercise/ArrayOne1/obj/Debug/ArrayOne1.pdb

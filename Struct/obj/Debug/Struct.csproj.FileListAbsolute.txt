@@ -1,0 +1,6 @@
+/Users/jiwonkim/RiderProjects/Excercise/Struct/bin/Debug/Struct.exe
+/Users/jiwonkim/RiderProjects/Excercise/Struct/bin/Debug/Struct.pdb
+/Users/jiwonkim/RiderProjects/Excercise/Struct/obj/Debug/Struct.csprojAssemblyReference.cache
+/Users/jiwonkim/RiderProjects/Excercise/Struct/obj/Debug/Struct.csproj.CoreCompileInputs.cache
+/Users/jiwonkim/RiderProjects/Excercise/Struct/obj/Debug/Struct.exe
+/Users/jiwonkim/RiderProjects/Excercise/Struct/obj/Debug/Struct.pdb

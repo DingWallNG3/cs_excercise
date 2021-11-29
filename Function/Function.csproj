@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{0248128E-2748-44B4-AF4A-C21DDB029454}</ProjectGuid>
+        <OutputType>Exe</OutputType>
+        <AppDesignerFolder>Properties</AppDesignerFolder>
+        <RootNamespace>Function</RootNamespace>
+        <AssemblyName>Function</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+        <LangVersion>9</LangVersion>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="System" />
+        <Reference Include="System.Core" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Xml" />
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="17. ArrowFunction.cs" />
+        <Compile Include="09. DefaultParameter.cs" />
+        <Compile Include="08. FunctionAddNumbers.cs" />
+        <Compile Include="02. FunctionCall.cs" />
+        <Compile Include="01. FunctionDemo.cs" />
+        <Compile Include="13. FunctionOverload.cs" />
+        <Compile Include="03. FunctionParameter.cs" />
+        <Compile Include="05. FunctionReturnValue.cs" />
+        <Compile Include="16. FunctionScope.cs" />
+        <Compile Include="06. GetSumTwoNumbers.cs" />
+        <Compile Include="07. MaxMinFunction.cs" />
+        <Compile Include="12. MethodOverload.cs" />
+        <Compile Include="11. MethodOverloadNumber.cs" />
+        <Compile Include="10. NamedParameter.cs" />
+        <Compile Include="18. ExpressionBodiedMethod.cs" />
+        <Compile Include="19. LocalFunctionDemo.cs" />
+        <Compile Include="20. LocalFunctionAdd.cs" />
+        <Compile Include="21. CommandLineArgument.cs" />
+        <Compile Include="22. CommandLineDemo.cs" />
+        <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="14. RecursionDemo.cs" />
+        <Compile Include="15. RecursionPower.cs" />
+        <Compile Include="04. ReturnValue..cs" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+    <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+
+</Project>
