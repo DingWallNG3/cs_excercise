@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerate", "Enumerate\Enumerate.csproj", "{04FC8C2C-607D-4402-B2BA-9734DE64E3C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{51123FC9-AF8E-4555-91B7-0E5FDE039A67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{04FC8C2C-607D-4402-B2BA-9734DE64E3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04FC8C2C-607D-4402-B2BA-9734DE64E3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04FC8C2C-607D-4402-B2BA-9734DE64E3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51123FC9-AF8E-4555-91B7-0E5FDE039A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51123FC9-AF8E-4555-91B7-0E5FDE039A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51123FC9-AF8E-4555-91B7-0E5FDE039A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51123FC9-AF8E-4555-91B7-0E5FDE039A67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

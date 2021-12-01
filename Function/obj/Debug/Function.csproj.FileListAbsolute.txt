@@ -4,3 +4,10 @@
 /Users/jiwonkim/RiderProjects/Excercise/Function/obj/Debug/Function.csproj.CoreCompileInputs.cache
 /Users/jiwonkim/RiderProjects/Excercise/Function/obj/Debug/Function.exe
 /Users/jiwonkim/RiderProjects/Excercise/Function/obj/Debug/Function.pdb
+D:\CS_Excercise\Function\obj\Debug\Function.exe
+D:\CS_Excercise\Function\obj\Debug\Function.pdb
+D:\CS_Excercise\Function\bin\Debug\Function.exe
+D:\CS_Excercise\Function\bin\Debug\Function.pdb
+D:\CS_Excercise\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+D:\CS_Excercise\Function\obj\Debug\Function.csproj.SuggestedBindingRedirects.cache
+D:\CS_Excercise\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache

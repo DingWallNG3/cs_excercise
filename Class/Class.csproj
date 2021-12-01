@@ -4,15 +4,14 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{04FC8C2C-607D-4402-B2BA-9734DE64E3C3}</ProjectGuid>
+        <ProjectGuid>{51123FC9-AF8E-4555-91B7-0E5FDE039A67}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Enumerate</RootNamespace>
-        <AssemblyName>Enumerate</AssemblyName>
+        <RootNamespace>Class</RootNamespace>
+        <AssemblyName>Class</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <LangVersion>9</LangVersion>
-        <Nullable>enable</Nullable>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
         <PlatformTarget>AnyCPU</PlatformTarget>
@@ -40,13 +39,9 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="01. ConsoleColorDemo.cs" />
-        <Compile Include="02. EnumerationDemo.cs" />
-        <Compile Include="03. EnumIndex.cs" />
-        <Compile Include="04. EnumIndexChange.cs" />
-        <Compile Include="05. EnumSwitch.cs" />
-        <Compile Include="06. EnumGetNames.cs" />
-        <Compile Include="07. EnumParse.cs" />
+        <Compile Include="01. ClassNote.cs" />
+        <Compile Include="02. MyFirstClass.cs" />
+        <Compile Include="03. ClassDescription.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

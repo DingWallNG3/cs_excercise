@@ -1,0 +1,7 @@
+D:\CS_Excercise\Class\bin\Debug\Class.exe
+D:\CS_Excercise\Class\bin\Debug\Class.pdb
+D:\CS_Excercise\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+D:\CS_Excercise\Class\obj\Debug\Class.csproj.SuggestedBindingRedirects.cache
+D:\CS_Excercise\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\CS_Excercise\Class\obj\Debug\Class.exe
+D:\CS_Excercise\Class\obj\Debug\Class.pdb

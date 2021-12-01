@@ -4,3 +4,10 @@
 /Users/jiwonkim/RiderProjects/Excercise/DotNetAPI/obj/Debug/DotNetAPI.csproj.CoreCompileInputs.cache
 /Users/jiwonkim/RiderProjects/Excercise/DotNetAPI/obj/Debug/DotNetAPI.exe
 /Users/jiwonkim/RiderProjects/Excercise/DotNetAPI/obj/Debug/DotNetAPI.pdb
+D:\CS_Excercise\DotNetAPI\obj\Debug\DotNetAPI.exe
+D:\CS_Excercise\DotNetAPI\obj\Debug\DotNetAPI.pdb
+D:\CS_Excercise\DotNetAPI\bin\Debug\DotNetAPI.exe
+D:\CS_Excercise\DotNetAPI\bin\Debug\DotNetAPI.pdb
+D:\CS_Excercise\DotNetAPI\obj\Debug\DotNetAPI.csproj.AssemblyReference.cache
+D:\CS_Excercise\DotNetAPI\obj\Debug\DotNetAPI.csproj.SuggestedBindingRedirects.cache
+D:\CS_Excercise\DotNetAPI\obj\Debug\DotNetAPI.csproj.CoreCompileInputs.cache

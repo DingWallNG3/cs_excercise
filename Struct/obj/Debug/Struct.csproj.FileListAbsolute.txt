@@ -4,3 +4,10 @@
 /Users/jiwonkim/RiderProjects/Excercise/Struct/obj/Debug/Struct.csproj.CoreCompileInputs.cache
 /Users/jiwonkim/RiderProjects/Excercise/Struct/obj/Debug/Struct.exe
 /Users/jiwonkim/RiderProjects/Excercise/Struct/obj/Debug/Struct.pdb
+D:\CS_Excercise\Struct\obj\Debug\Struct.exe
+D:\CS_Excercise\Struct\obj\Debug\Struct.pdb
+D:\CS_Excercise\Struct\bin\Debug\Struct.exe
+D:\CS_Excercise\Struct\bin\Debug\Struct.pdb
+D:\CS_Excercise\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+D:\CS_Excercise\Struct\obj\Debug\Struct.csproj.SuggestedBindingRedirects.cache
+D:\CS_Excercise\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache

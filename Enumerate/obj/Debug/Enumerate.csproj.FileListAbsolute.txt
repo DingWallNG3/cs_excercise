@@ -4,3 +4,10 @@
 /Users/jiwonkim/RiderProjects/Excercise/Enumerate/obj/Debug/Enumerate.csproj.CoreCompileInputs.cache
 /Users/jiwonkim/RiderProjects/Excercise/Enumerate/obj/Debug/Enumerate.exe
 /Users/jiwonkim/RiderProjects/Excercise/Enumerate/obj/Debug/Enumerate.pdb
+D:\CS_Excercise\Enumerate\obj\Debug\Enumerate.exe
+D:\CS_Excercise\Enumerate\obj\Debug\Enumerate.pdb
+D:\CS_Excercise\Enumerate\bin\Debug\Enumerate.exe
+D:\CS_Excercise\Enumerate\bin\Debug\Enumerate.pdb
+D:\CS_Excercise\Enumerate\obj\Debug\Enumerate.csproj.AssemblyReference.cache
+D:\CS_Excercise\Enumerate\obj\Debug\Enumerate.csproj.SuggestedBindingRedirects.cache
+D:\CS_Excercise\Enumerate\obj\Debug\Enumerate.csproj.CoreCompileInputs.cache

@@ -4,3 +4,10 @@
 /Users/jiwonkim/RiderProjects/Excercise/Array/obj/Debug/Array.csproj.CoreCompileInputs.cache
 /Users/jiwonkim/RiderProjects/Excercise/Array/obj/Debug/Array.exe
 /Users/jiwonkim/RiderProjects/Excercise/Array/obj/Debug/Array.pdb
+D:\CS_Excercise\Array\obj\Debug\Array.exe
+D:\CS_Excercise\Array\obj\Debug\Array.pdb
+D:\CS_Excercise\Array\bin\Debug\Array.exe
+D:\CS_Excercise\Array\bin\Debug\Array.pdb
+D:\CS_Excercise\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+D:\CS_Excercise\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+D:\CS_Excercise\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
