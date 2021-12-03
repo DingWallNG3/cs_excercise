@@ -42,6 +42,17 @@
         <Compile Include="01. ClassNote.cs" />
         <Compile Include="02. MyFirstClass.cs" />
         <Compile Include="03. ClassDescription.cs" />
+        <Compile Include="04. ClassAndMember.cs" />
+        <Compile Include="05. EnvironmentExit.cs" />
+        <Compile Include="06. ProcessStartDemo.cs" />
+        <Compile Include="07. RandomDemo.cs" />
+        <Compile Include="08. RandomClassDemo.cs" />
+        <Compile Include="09. RockPaperScissors.cs" />
+        <Compile Include="10. StopwatchDemo.cs" />
+        <Compile Include="11. RegexReplace.cs" />
+        <Compile Include="12. RegexDemo.cs" />
+        <Compile Include="13. Is.cs" />
+        <Compile Include="14. As.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
